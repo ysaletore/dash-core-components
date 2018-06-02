@@ -5,6 +5,7 @@ import Graph from './components/Graph.react';
 import RangeSlider from './components/RangeSlider.react';
 import Slider from './components/Slider.react';
 import RadioItems from './components/RadioItems.react';
+import RadioItemsList from './components/RadioItemsList.react';
 import Checklist from './components/Checklist.react';
 import SyntaxHighlighter from './components/SyntaxHighlighter.react';
 import Interval from './components/Interval.react';
@@ -23,6 +24,7 @@ export {
     Graph,
     Input,
     RadioItems,
+    RadioItemsList,
     RangeSlider,
     Slider,
     SyntaxHighlighter,
